@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.675ae6b3.css",
-    "main.js": "/Portfolio/static/js/main.0b2113ca.js",
+    "main.js": "/Portfolio/static/js/main.72f06546.js",
     "static/media/dreamio.png": "/Portfolio/static/media/dreamio.68e00ef1079f78f9e876.png",
-    "static/media/heroImage.png": "/Portfolio/static/media/heroImage.b887c3e58d756a9a962f.png",
     "static/media/Student Progress.png": "/Portfolio/static/media/Student Progress.5e5e9e2b89f77e38f445.png",
     "static/media/queuemanagement.png": "/Portfolio/static/media/queuemanagement.3b5ef6eb204dc1af2045.png",
     "static/media/mindphix.png": "/Portfolio/static/media/mindphix.73f1cbf6cfbcd2217d5f.png",
     "static/media/shoppingcart.png": "/Portfolio/static/media/shoppingcart.e59c71e5ed809557a64c.png",
+    "static/media/me.png": "/Portfolio/static/media/me.e8e3f68aaa952e6cfc68.png",
     "static/media/firebase.png": "/Portfolio/static/media/firebase.5dc207cba0a69c6ad57e.png",
     "static/media/mysql.png": "/Portfolio/static/media/mysql.69d9ffce5def5f9944b6.png",
     "static/media/java.png": "/Portfolio/static/media/java.ffe3804621fe00d67337.png",
@@ -21,10 +21,10 @@
     "static/media/javascript.png": "/Portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio/index.html",
     "main.675ae6b3.css.map": "/Portfolio/static/css/main.675ae6b3.css.map",
-    "main.0b2113ca.js.map": "/Portfolio/static/js/main.0b2113ca.js.map"
+    "main.72f06546.js.map": "/Portfolio/static/js/main.72f06546.js.map"
   },
   "entrypoints": [
     "static/css/main.675ae6b3.css",
-    "static/js/main.0b2113ca.js"
+    "static/js/main.72f06546.js"
   ]
 }
